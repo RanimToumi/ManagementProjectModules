@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="evenement1" />
+        <module name="employeesmicroservice" />
+        <module name="gestionPrjt" />
+        <module name="MarketingAPI" />
+        <module name="procurementFlowAPI" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="employeesmicroservice" target="21" />
+      <module name="evenement1" target="21" />
+      <module name="gestionPrjt" target="21" />
+      <module name="MarketingAPI" target="21" />
+      <module name="procurementFlowAPI" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MarketingAPI" options="-parameters" />
+      <module name="employeesmicroservice" options="-parameters" />
+      <module name="evenement1" options="-parameters" />
+      <module name="gestionPrjt" options="-parameters" />
+      <module name="procurementFlowAPI" options="-parameters" />
+    </option>
+  </component>
+</project>

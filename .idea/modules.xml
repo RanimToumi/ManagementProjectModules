@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ManagementProject.iml" filepath="$PROJECT_DIR$/.idea/ManagementProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarketingModuleAPI-master/MarketingModuleAPI-master/MarketingAPI/MarketingAPI.iml" filepath="$PROJECT_DIR$/MarketingModuleAPI-master/MarketingModuleAPI-master/MarketingAPI/MarketingAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetTBSback-main/projetTBSback-main/employeesmicroservice.iml" filepath="$PROJECT_DIR$/projetTBSback-main/projetTBSback-main/employeesmicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetEventsBackend-main/projetEventsBackend-main/evenement1.iml" filepath="$PROJECT_DIR$/projetEventsBackend-main/projetEventsBackend-main/evenement1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestionPrjt - Copie/gestionPrjt/gestionPrjt.iml" filepath="$PROJECT_DIR$/gestionPrjt - Copie/gestionPrjt/gestionPrjt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/procurementFlowAPI/procurementFlowAPI.iml" filepath="$PROJECT_DIR$/procurementFlowAPI/procurementFlowAPI.iml" />
+    </modules>
+  </component>
+</project>
